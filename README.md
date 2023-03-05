@@ -14,7 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loophole1337&show_icons=true&locale=en&layout=compact" alt="loophole1337" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loophole1337&show_icons=true&locale=en" alt="loophole1337" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loophole1337&" alt="loophole1337" /></p>
